@@ -26,3 +26,4 @@ namespace Assignment03_LINQ.Data
             => $"Order Id: {OrderID}, Date: {OrderDate.ToShortDateString()}, Total: {Total}";
     }
 }
+

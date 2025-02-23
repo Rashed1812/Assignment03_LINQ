@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Assignment03_LINQ.Data
 {
-    public class Employee
+    class Employee
     {
         public int Id { get; set; }
         public string Name { get; set; }
