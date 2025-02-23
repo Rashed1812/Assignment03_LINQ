@@ -32,3 +32,4 @@ namespace Assignment03_LINQ.Data
             => $"{CustomerID}, {CustomerName}, {Address}, {City}, {Region}, {PostalCode}, {Country}, {Phone}, {Fax}";
     }
 }
+
